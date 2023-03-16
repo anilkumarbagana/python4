@@ -17,3 +17,5 @@ def innings(batsman, to_chase):
             print(batsman + " score is", total)
             if to_chase is not None and total > to_chase:
                 return total
+            print(batsman1 -"total score" )
+            
